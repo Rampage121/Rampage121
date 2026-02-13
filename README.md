@@ -1,11 +1,13 @@
- # Dragon — Adaptive Integrity System
+# Dragon — Adaptive Integrity System
 
-Dragon is an experimental system designed to observe automated environments, learn normal behavioral patterns, and detect integrity drift or anomalous activity over time.
+Dragon is a behavior-aware integrity framework designed to observe automated environments, establish normal runtime patterns, and identify deviations that indicate drift, corruption, or unauthorized influence.
 
-The project explores:
-- Behavioral monitoring
-- Integrity verification
-- Adaptive anomaly detection
-- Secure runtime observation
+The system focuses on:
 
-Dragon is currently in active development as part of the Sandbox initiative.
+- Signed heartbeat verification
+- Behavioral baseline modeling
+- Integrity drift detection
+- Runtime observation and event logging
+- Adaptive anomaly signaling
+
+Dragon is part of the Sandbox initiative and continues to evolve through active development and architectural refinement..
